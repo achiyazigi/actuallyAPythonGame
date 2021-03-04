@@ -1,0 +1,6 @@
+Boolean variables can be set to True or False,
+nothing else!
+BTW, it's interesting what would happen
+if you try commiting mathmatic operations
+with it (True * 2 = ?).
+If you want to check, just print it!

@@ -1,0 +1,5 @@
+boxes = ['not here']*10
+import random
+x = random.randrange(10)
+boxes[x] = 'here'
+solution_box = -1

@@ -1,0 +1,2 @@
+if(al[a] == solution_box):
+	print('passed level 2')

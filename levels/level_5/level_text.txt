@@ -1,0 +1,7 @@
+There are 10 boxes here, and i want to find the
+shovle to get the hell out of here.
+The boxes are arranged in a list
+called <boxes>. If there is a shovel in box i then
+boxes[i] = 'here'. Your mission is to find that index
+and put it in <solution_box>.
+The index is being generated with every code submition.

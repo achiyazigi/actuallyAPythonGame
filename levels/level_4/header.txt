@@ -1,0 +1,4 @@
+import random
+n = random.randrange(70)
+lst = ['zigi'] * n
+solution_box = -1

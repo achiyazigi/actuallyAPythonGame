@@ -1,0 +1,10 @@
+about if and else, i'll give you an example:
+
+if(some_variable == other_variable):
+   solution_box = something
+else:
+   solution_box = something_else
+
+let's try it: <a> is 0 or 1. if its 0, put 'zero'
+in <solution_box>. else, put 'one' in <solution_box>.
+don't forget the 'tab' after ':'

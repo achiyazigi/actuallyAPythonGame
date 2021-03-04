@@ -1,0 +1,8 @@
+You can allways guess a list's length,
+but why would you?
+By typing len(<some_list>)
+you'r good to go.
+I have a list called <lst>.
+Can you tell it's length?
+Put the answer in <solution_box>.
+Oh, and thank you for everything.

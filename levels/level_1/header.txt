@@ -1,0 +1,4 @@
+import random
+a = random.randrange(2)
+solution_box = 'not assigned'
+al = ['zero','one']

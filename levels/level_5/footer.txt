@@ -1,0 +1,2 @@
+if(solution_box == x):
+	print('passed level 5')

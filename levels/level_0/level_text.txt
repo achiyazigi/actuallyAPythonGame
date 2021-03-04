@@ -1,0 +1,8 @@
+Oh hey kind sir!
+A little bit dark don't ya' think?
+We can get a vision by printing
+'hello world'
+in the green box down bellow.
+You can print everything by typing: print('<your text>')
+Type your wish in the box above. To submit just press F5.
+Be a fella and gimme some light, would ya?

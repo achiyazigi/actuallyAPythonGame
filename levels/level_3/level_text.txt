@@ -1,0 +1,10 @@
+How to print a list you ask? Let's use 'for'.
+Here's an example:
+
+xmpl = ['zero','one','two','three']
+for i in range(4):
+   print(xmpl[i])
+   
+Lets try it. I have a list <a> contains 3 elements.
+Print it for me, would you?
+oh, and don't forget to check the output ;)

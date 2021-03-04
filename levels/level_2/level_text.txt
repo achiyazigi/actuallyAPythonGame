@@ -1,0 +1,7 @@
+there is another way to do that, by using a list.
+for example: lst = ['zero','one']
+it's just a collection of elements. then
+<lst[0]> contains the first element which is 'zero',
+and <lst[1]> contains the second element: 'one'.
+I'm counting on you. try to figure out how to solve
+the previous problem without using "if".
